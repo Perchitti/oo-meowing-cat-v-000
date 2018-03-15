@@ -7,7 +7,7 @@ class Cat
  end
 
    def meow
-     @meow
+     "meow!"
    end
 
 
