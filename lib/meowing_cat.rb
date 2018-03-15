@@ -4,7 +4,7 @@ class Cat
 
 
    def meow(meow)
-  @meow = "meow"
+  @meow = "meow!"
    end
 def meow
   @meow
