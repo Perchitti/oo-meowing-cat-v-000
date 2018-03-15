@@ -2,7 +2,7 @@
 class Cat
  attr_accessor :name :meow
 
-def instance(meow)
+def initialize(meow)
   @meow = meow
 end
 
