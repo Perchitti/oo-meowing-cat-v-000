@@ -1,9 +1,13 @@
 ## code your solution here.
 class cat
+ attr_accessor :name
 
-  attr_accessor :name
-  def method_name
+  def meow(meow)
+    @meow = meow
+  end
 
+  def meow
+    @meow
   end
 
 
